@@ -1,0 +1,8482 @@
+{
+    "acacia_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_door": {
+        "thumbnail-color": [
+            120,
+            68,
+            43,
+            183.28125
+        ]
+    },
+    "acacia_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_leaves": {
+        "thumbnail-color": [
+            72,
+            181,
+            24,
+            147.421875
+        ]
+    },
+    "acacia_log": {
+        "thumbnail-color": [
+            150,
+            88,
+            55,
+            255.0
+        ]
+    },
+    "acacia_planks": {
+        "thumbnail-color": [
+            168,
+            90,
+            50,
+            255.0
+        ]
+    },
+    "acacia_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_slab": {
+        "thumbnail-color": [
+            168,
+            90,
+            50,
+            255.0
+        ]
+    },
+    "acacia_stairs": {
+        "thumbnail-color": [
+            168,
+            90,
+            50,
+            255.0
+        ]
+    },
+    "acacia_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "acacia_wood": {
+        "thumbnail-color": [
+            103,
+            96,
+            86,
+            255.0
+        ]
+    },
+    "activator_rail": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "air": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "allium": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "amethyst_block": {
+        "thumbnail-color": [
+            133,
+            97,
+            191,
+            255.0
+        ]
+    },
+    "amethyst_cluster": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "ancient_debris": {
+        "thumbnail-color": [
+            94,
+            66,
+            58,
+            255.0
+        ]
+    },
+    "andesite": {
+        "thumbnail-color": [
+            136,
+            136,
+            136,
+            255.0
+        ]
+    },
+    "andesite_slab": {
+        "thumbnail-color": [
+            136,
+            136,
+            136,
+            255.0
+        ]
+    },
+    "andesite_stairs": {
+        "thumbnail-color": [
+            136,
+            136,
+            136,
+            255.0
+        ]
+    },
+    "andesite_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "anvil": {
+        "thumbnail-color": [
+            45,
+            45,
+            45,
+            159.375
+        ]
+    },
+    "attached_melon_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "attached_pumpkin_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "azalea": {
+        "thumbnail-color": [
+            101,
+            124,
+            47,
+            255.0
+        ]
+    },
+    "azalea_leaves": {
+        "thumbnail-color": [
+            69,
+            88,
+            34,
+            196.23046875
+        ]
+    },
+    "azure_bluet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_block": {
+        "thumbnail-color": [
+            139,
+            141,
+            62,
+            255.0
+        ]
+    },
+    "bamboo_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_door": {
+        "thumbnail-color": [
+            155,
+            139,
+            66,
+            207.1875
+        ]
+    },
+    "bamboo_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_mosaic": {
+        "thumbnail-color": [
+            190,
+            170,
+            78,
+            255.0
+        ]
+    },
+    "bamboo_mosaic_slab": {
+        "thumbnail-color": [
+            190,
+            170,
+            78,
+            255.0
+        ]
+    },
+    "bamboo_mosaic_stairs": {
+        "thumbnail-color": [
+            190,
+            170,
+            78,
+            255.0
+        ]
+    },
+    "bamboo_planks": {
+        "thumbnail-color": [
+            193,
+            173,
+            80,
+            255.0
+        ]
+    },
+    "bamboo_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_slab": {
+        "thumbnail-color": [
+            193,
+            173,
+            80,
+            255.0
+        ]
+    },
+    "bamboo_stairs": {
+        "thumbnail-color": [
+            193,
+            173,
+            80,
+            255.0
+        ]
+    },
+    "bamboo_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bamboo_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "barrel": {
+        "thumbnail-color": [
+            92,
+            67,
+            34,
+            255.0
+        ]
+    },
+    "barrier": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "basalt": {
+        "thumbnail-color": [
+            80,
+            81,
+            86,
+            255.0
+        ]
+    },
+    "beacon": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bedrock": {
+        "thumbnail-color": [
+            85,
+            85,
+            85,
+            255.0
+        ]
+    },
+    "bee_nest": {
+        "thumbnail-color": [
+            202,
+            160,
+            74,
+            255.0
+        ]
+    },
+    "beehive": {
+        "thumbnail-color": [
+            180,
+            146,
+            90,
+            255.0
+        ]
+    },
+    "beetroots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bell": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "big_dripleaf": {
+        "thumbnail-color": [
+            101,
+            128,
+            46,
+            231.09375
+        ]
+    },
+    "big_dripleaf_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_door": {
+        "thumbnail-color": [
+            220,
+            209,
+            176,
+            255.0
+        ]
+    },
+    "birch_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_leaves": {
+        "thumbnail-color": [
+            128,
+            167,
+            85,
+            143.4375
+        ]
+    },
+    "birch_log": {
+        "thumbnail-color": [
+            193,
+            179,
+            135,
+            255.0
+        ]
+    },
+    "birch_planks": {
+        "thumbnail-color": [
+            192,
+            175,
+            121,
+            255.0
+        ]
+    },
+    "birch_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_slab": {
+        "thumbnail-color": [
+            192,
+            175,
+            121,
+            255.0
+        ]
+    },
+    "birch_stairs": {
+        "thumbnail-color": [
+            192,
+            175,
+            121,
+            255.0
+        ]
+    },
+    "birch_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "birch_wood": {
+        "thumbnail-color": [
+            216,
+            215,
+            210,
+            255.0
+        ]
+    },
+    "black_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_candle": {
+        "thumbnail-color": [
+            6,
+            3,
+            4,
+            20.91796875
+        ]
+    },
+    "black_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "black_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_concrete": {
+        "thumbnail-color": [
+            8,
+            10,
+            15,
+            255.0
+        ]
+    },
+    "black_concrete_powder": {
+        "thumbnail-color": [
+            25,
+            26,
+            31,
+            255.0
+        ]
+    },
+    "black_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_stained_glass": {
+        "thumbnail-color": [
+            25,
+            25,
+            25,
+            117.33203125
+        ]
+    },
+    "black_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_terracotta": {
+        "thumbnail-color": [
+            37,
+            22,
+            16,
+            255.0
+        ]
+    },
+    "black_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "black_wool": {
+        "thumbnail-color": [
+            20,
+            21,
+            25,
+            255.0
+        ]
+    },
+    "blackstone": {
+        "thumbnail-color": [
+            42,
+            36,
+            41,
+            255.0
+        ]
+    },
+    "blackstone_slab": {
+        "thumbnail-color": [
+            42,
+            36,
+            41,
+            255.0
+        ]
+    },
+    "blackstone_stairs": {
+        "thumbnail-color": [
+            42,
+            36,
+            41,
+            255.0
+        ]
+    },
+    "blackstone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blast_furnace": {
+        "thumbnail-color": [
+            80,
+            80,
+            81,
+            255.0
+        ]
+    },
+    "blue_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_candle": {
+        "thumbnail-color": [
+            5,
+            6,
+            14,
+            20.91796875
+        ]
+    },
+    "blue_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "blue_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_concrete": {
+        "thumbnail-color": [
+            44,
+            46,
+            143,
+            255.0
+        ]
+    },
+    "blue_concrete_powder": {
+        "thumbnail-color": [
+            70,
+            73,
+            166,
+            255.0
+        ]
+    },
+    "blue_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_ice": {
+        "thumbnail-color": [
+            116,
+            167,
+            253,
+            255.0
+        ]
+    },
+    "blue_orchid": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_stained_glass": {
+        "thumbnail-color": [
+            51,
+            76,
+            178,
+            117.33203125
+        ]
+    },
+    "blue_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_terracotta": {
+        "thumbnail-color": [
+            74,
+            59,
+            91,
+            255.0
+        ]
+    },
+    "blue_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "blue_wool": {
+        "thumbnail-color": [
+            53,
+            57,
+            157,
+            255.0
+        ]
+    },
+    "bone_block": {
+        "thumbnail-color": [
+            209,
+            206,
+            179,
+            255.0
+        ]
+    },
+    "bookshelf": {
+        "thumbnail-color": [
+            162,
+            130,
+            78,
+            255.0
+        ]
+    },
+    "brain_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brain_coral_block": {
+        "thumbnail-color": [
+            207,
+            91,
+            159,
+            255.0
+        ]
+    },
+    "brain_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brain_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brewing_stand": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brick_slab": {
+        "thumbnail-color": [
+            150,
+            97,
+            83,
+            255.0
+        ]
+    },
+    "brick_stairs": {
+        "thumbnail-color": [
+            150,
+            97,
+            83,
+            255.0
+        ]
+    },
+    "brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bricks": {
+        "thumbnail-color": [
+            150,
+            97,
+            83,
+            255.0
+        ]
+    },
+    "brown_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_candle": {
+        "thumbnail-color": [
+            12,
+            7,
+            4,
+            20.91796875
+        ]
+    },
+    "brown_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "brown_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_concrete": {
+        "thumbnail-color": [
+            96,
+            59,
+            31,
+            255.0
+        ]
+    },
+    "brown_concrete_powder": {
+        "thumbnail-color": [
+            125,
+            84,
+            53,
+            255.0
+        ]
+    },
+    "brown_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_mushroom": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_mushroom_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_stained_glass": {
+        "thumbnail-color": [
+            102,
+            76,
+            51,
+            117.33203125
+        ]
+    },
+    "brown_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_terracotta": {
+        "thumbnail-color": [
+            77,
+            51,
+            35,
+            255.0
+        ]
+    },
+    "brown_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "brown_wool": {
+        "thumbnail-color": [
+            114,
+            71,
+            40,
+            255.0
+        ]
+    },
+    "bubble_column": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bubble_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bubble_coral_block": {
+        "thumbnail-color": [
+            165,
+            26,
+            162,
+            255.0
+        ]
+    },
+    "bubble_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "bubble_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "budding_amethyst": {
+        "thumbnail-color": [
+            132,
+            96,
+            186,
+            255.0
+        ]
+    },
+    "cactus": {
+        "thumbnail-color": [
+            65,
+            97,
+            33,
+            195.234375
+        ]
+    },
+    "cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "calcite": {
+        "thumbnail-color": [
+            223,
+            224,
+            220,
+            255.0
+        ]
+    },
+    "calibrated_sculk_sensor": {
+        "thumbnail-color": [
+            27,
+            79,
+            100,
+            255.0
+        ]
+    },
+    "campfire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "candle": {
+        "thumbnail-color": [
+            19,
+            17,
+            14,
+            20.91796875
+        ]
+    },
+    "candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "carrots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cartography_table": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "carved_pumpkin": {
+        "thumbnail-color": [
+            198,
+            118,
+            24,
+            255.0
+        ]
+    },
+    "cauldron": {
+        "thumbnail-color": [
+            44,
+            44,
+            45,
+            155.390625
+        ]
+    },
+    "cave_air": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cave_vines": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cave_vines_plant": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "chain": {
+        "thumbnail-color": [
+            11,
+            12,
+            16,
+            55.78125
+        ]
+    },
+    "chain_command_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_door": {
+        "thumbnail-color": [
+            191,
+            146,
+            141,
+            219.140625
+        ]
+    },
+    "cherry_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_leaves": {
+        "thumbnail-color": [
+            193,
+            145,
+            163,
+            215.15625
+        ]
+    },
+    "cherry_log": {
+        "thumbnail-color": [
+            185,
+            141,
+            137,
+            255.0
+        ]
+    },
+    "cherry_planks": {
+        "thumbnail-color": [
+            226,
+            178,
+            172,
+            255.0
+        ]
+    },
+    "cherry_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_slab": {
+        "thumbnail-color": [
+            226,
+            178,
+            172,
+            255.0
+        ]
+    },
+    "cherry_stairs": {
+        "thumbnail-color": [
+            226,
+            178,
+            172,
+            255.0
+        ]
+    },
+    "cherry_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cherry_wood": {
+        "thumbnail-color": [
+            54,
+            33,
+            44,
+            255.0
+        ]
+    },
+    "chest": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "chipped_anvil": {
+        "thumbnail-color": [
+            45,
+            45,
+            45,
+            159.375
+        ]
+    },
+    "chiseled_bookshelf": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "chiseled_copper": {
+        "thumbnail-color": [
+            184,
+            100,
+            73,
+            255.0
+        ]
+    },
+    "chiseled_deepslate": {
+        "thumbnail-color": [
+            54,
+            54,
+            54,
+            255.0
+        ]
+    },
+    "chiseled_nether_bricks": {
+        "thumbnail-color": [
+            47,
+            23,
+            28,
+            255.0
+        ]
+    },
+    "chiseled_polished_blackstone": {
+        "thumbnail-color": [
+            53,
+            48,
+            56,
+            255.0
+        ]
+    },
+    "chiseled_quartz_block": {
+        "thumbnail-color": [
+            231,
+            226,
+            217,
+            255.0
+        ]
+    },
+    "chiseled_red_sandstone": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "chiseled_sandstone": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "chiseled_stone_bricks": {
+        "thumbnail-color": [
+            119,
+            118,
+            119,
+            255.0
+        ]
+    },
+    "chiseled_tuff": {
+        "thumbnail-color": [
+            93,
+            98,
+            91,
+            255.0
+        ]
+    },
+    "chiseled_tuff_bricks": {
+        "thumbnail-color": [
+            110,
+            113,
+            106,
+            255.0
+        ]
+    },
+    "chorus_flower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "chorus_plant": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "clay": {
+        "thumbnail-color": [
+            160,
+            166,
+            179,
+            255.0
+        ]
+    },
+    "coal_block": {
+        "thumbnail-color": [
+            16,
+            15,
+            15,
+            255.0
+        ]
+    },
+    "coal_ore": {
+        "thumbnail-color": [
+            105,
+            105,
+            105,
+            255.0
+        ]
+    },
+    "coarse_dirt": {
+        "thumbnail-color": [
+            119,
+            85,
+            59,
+            255.0
+        ]
+    },
+    "cobbled_deepslate": {
+        "thumbnail-color": [
+            77,
+            77,
+            80,
+            255.0
+        ]
+    },
+    "cobbled_deepslate_slab": {
+        "thumbnail-color": [
+            77,
+            77,
+            80,
+            255.0
+        ]
+    },
+    "cobbled_deepslate_stairs": {
+        "thumbnail-color": [
+            77,
+            77,
+            80,
+            255.0
+        ]
+    },
+    "cobbled_deepslate_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cobblestone": {
+        "thumbnail-color": [
+            127,
+            127,
+            127,
+            255.0
+        ]
+    },
+    "cobblestone_slab": {
+        "thumbnail-color": [
+            127,
+            127,
+            127,
+            255.0
+        ]
+    },
+    "cobblestone_stairs": {
+        "thumbnail-color": [
+            127,
+            127,
+            127,
+            255.0
+        ]
+    },
+    "cobblestone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cobweb": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cocoa": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "command_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "comparator": {
+        "thumbnail-color": [
+            175,
+            160,
+            157,
+            255.0
+        ]
+    },
+    "composter": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "conduit": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "copper_block": {
+        "thumbnail-color": [
+            192,
+            107,
+            79,
+            255.0
+        ]
+    },
+    "copper_bulb": {
+        "thumbnail-color": [
+            216,
+            149,
+            106,
+            255.0
+        ]
+    },
+    "copper_door": {
+        "thumbnail-color": [
+            156,
+            88,
+            67,
+            207.1875
+        ]
+    },
+    "copper_grate": {
+        "thumbnail-color": [
+            134,
+            75,
+            55,
+            178.30078125
+        ]
+    },
+    "copper_ore": {
+        "thumbnail-color": [
+            124,
+            125,
+            120,
+            255.0
+        ]
+    },
+    "copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cornflower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cracked_deepslate_bricks": {
+        "thumbnail-color": [
+            64,
+            64,
+            65,
+            255.0
+        ]
+    },
+    "cracked_deepslate_tiles": {
+        "thumbnail-color": [
+            52,
+            52,
+            52,
+            255.0
+        ]
+    },
+    "cracked_nether_bricks": {
+        "thumbnail-color": [
+            40,
+            20,
+            23,
+            255.0
+        ]
+    },
+    "cracked_polished_blackstone_bricks": {
+        "thumbnail-color": [
+            44,
+            37,
+            43,
+            255.0
+        ]
+    },
+    "cracked_stone_bricks": {
+        "thumbnail-color": [
+            118,
+            117,
+            118,
+            255.0
+        ]
+    },
+    "crafter": {
+        "thumbnail-color": [
+            139,
+            100,
+            100,
+            255.0
+        ]
+    },
+    "crafting_table": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "creeper_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "creeper_wall_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_door": {
+        "thumbnail-color": [
+            114,
+            54,
+            79,
+            255.0
+        ]
+    },
+    "crimson_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_fungus": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_hyphae": {
+        "thumbnail-color": [
+            92,
+            25,
+            29,
+            255.0
+        ]
+    },
+    "crimson_nylium": {
+        "thumbnail-color": [
+            130,
+            31,
+            31,
+            255.0
+        ]
+    },
+    "crimson_planks": {
+        "thumbnail-color": [
+            101,
+            48,
+            70,
+            255.0
+        ]
+    },
+    "crimson_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_roots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_slab": {
+        "thumbnail-color": [
+            101,
+            48,
+            70,
+            255.0
+        ]
+    },
+    "crimson_stairs": {
+        "thumbnail-color": [
+            101,
+            48,
+            70,
+            255.0
+        ]
+    },
+    "crimson_stem": {
+        "thumbnail-color": [
+            112,
+            49,
+            70,
+            255.0
+        ]
+    },
+    "crimson_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crimson_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "crying_obsidian": {
+        "thumbnail-color": [
+            32,
+            10,
+            60,
+            255.0
+        ]
+    },
+    "cut_copper": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "cut_copper_slab": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "cut_copper_stairs": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "cut_red_sandstone": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "cut_red_sandstone_slab": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "cut_sandstone": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "cut_sandstone_slab": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "cyan_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_candle": {
+        "thumbnail-color": [
+            3,
+            12,
+            11,
+            20.91796875
+        ]
+    },
+    "cyan_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "cyan_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_concrete": {
+        "thumbnail-color": [
+            21,
+            119,
+            136,
+            255.0
+        ]
+    },
+    "cyan_concrete_powder": {
+        "thumbnail-color": [
+            36,
+            147,
+            157,
+            255.0
+        ]
+    },
+    "cyan_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_stained_glass": {
+        "thumbnail-color": [
+            76,
+            127,
+            153,
+            117.33203125
+        ]
+    },
+    "cyan_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_terracotta": {
+        "thumbnail-color": [
+            86,
+            91,
+            91,
+            255.0
+        ]
+    },
+    "cyan_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "cyan_wool": {
+        "thumbnail-color": [
+            21,
+            137,
+            145,
+            255.0
+        ]
+    },
+    "damaged_anvil": {
+        "thumbnail-color": [
+            45,
+            45,
+            45,
+            159.375
+        ]
+    },
+    "dandelion": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_door": {
+        "thumbnail-color": [
+            76,
+            51,
+            25,
+            255.0
+        ]
+    },
+    "dark_oak_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_leaves": {
+        "thumbnail-color": [
+            72,
+            181,
+            24,
+            178.30078125
+        ]
+    },
+    "dark_oak_log": {
+        "thumbnail-color": [
+            67,
+            45,
+            22,
+            255.0
+        ]
+    },
+    "dark_oak_planks": {
+        "thumbnail-color": [
+            66,
+            43,
+            20,
+            255.0
+        ]
+    },
+    "dark_oak_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_slab": {
+        "thumbnail-color": [
+            66,
+            43,
+            20,
+            255.0
+        ]
+    },
+    "dark_oak_stairs": {
+        "thumbnail-color": [
+            66,
+            43,
+            20,
+            255.0
+        ]
+    },
+    "dark_oak_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dark_oak_wood": {
+        "thumbnail-color": [
+            60,
+            46,
+            26,
+            255.0
+        ]
+    },
+    "dark_prismarine": {
+        "thumbnail-color": [
+            51,
+            91,
+            75,
+            255.0
+        ]
+    },
+    "dark_prismarine_slab": {
+        "thumbnail-color": [
+            51,
+            91,
+            75,
+            255.0
+        ]
+    },
+    "dark_prismarine_stairs": {
+        "thumbnail-color": [
+            51,
+            91,
+            75,
+            255.0
+        ]
+    },
+    "daylight_detector": {
+        "thumbnail-color": [
+            106,
+            109,
+            112,
+            255.0
+        ]
+    },
+    "dead_brain_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_brain_coral_block": {
+        "thumbnail-color": [
+            124,
+            117,
+            114,
+            255.0
+        ]
+    },
+    "dead_brain_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_brain_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_bubble_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_bubble_coral_block": {
+        "thumbnail-color": [
+            131,
+            123,
+            119,
+            255.0
+        ]
+    },
+    "dead_bubble_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_bubble_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_bush": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_fire_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_fire_coral_block": {
+        "thumbnail-color": [
+            131,
+            123,
+            119,
+            255.0
+        ]
+    },
+    "dead_fire_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_fire_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_horn_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_horn_coral_block": {
+        "thumbnail-color": [
+            133,
+            126,
+            122,
+            255.0
+        ]
+    },
+    "dead_horn_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_horn_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_tube_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_tube_coral_block": {
+        "thumbnail-color": [
+            130,
+            123,
+            119,
+            255.0
+        ]
+    },
+    "dead_tube_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dead_tube_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "decorated_pot": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "deepslate": {
+        "thumbnail-color": [
+            87,
+            87,
+            89,
+            255.0
+        ]
+    },
+    "deepslate_brick_slab": {
+        "thumbnail-color": [
+            70,
+            70,
+            71,
+            255.0
+        ]
+    },
+    "deepslate_brick_stairs": {
+        "thumbnail-color": [
+            70,
+            70,
+            71,
+            255.0
+        ]
+    },
+    "deepslate_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "deepslate_bricks": {
+        "thumbnail-color": [
+            70,
+            70,
+            71,
+            255.0
+        ]
+    },
+    "deepslate_coal_ore": {
+        "thumbnail-color": [
+            74,
+            74,
+            76,
+            255.0
+        ]
+    },
+    "deepslate_copper_ore": {
+        "thumbnail-color": [
+            92,
+            93,
+            89,
+            255.0
+        ]
+    },
+    "deepslate_diamond_ore": {
+        "thumbnail-color": [
+            83,
+            106,
+            106,
+            255.0
+        ]
+    },
+    "deepslate_emerald_ore": {
+        "thumbnail-color": [
+            78,
+            104,
+            87,
+            255.0
+        ]
+    },
+    "deepslate_gold_ore": {
+        "thumbnail-color": [
+            115,
+            102,
+            78,
+            255.0
+        ]
+    },
+    "deepslate_iron_ore": {
+        "thumbnail-color": [
+            106,
+            99,
+            94,
+            255.0
+        ]
+    },
+    "deepslate_lapis_ore": {
+        "thumbnail-color": [
+            79,
+            90,
+            115,
+            255.0
+        ]
+    },
+    "deepslate_redstone_ore": {
+        "thumbnail-color": [
+            104,
+            73,
+            74,
+            255.0
+        ]
+    },
+    "deepslate_tile_slab": {
+        "thumbnail-color": [
+            54,
+            54,
+            55,
+            255.0
+        ]
+    },
+    "deepslate_tile_stairs": {
+        "thumbnail-color": [
+            54,
+            54,
+            55,
+            255.0
+        ]
+    },
+    "deepslate_tile_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "deepslate_tiles": {
+        "thumbnail-color": [
+            54,
+            54,
+            55,
+            255.0
+        ]
+    },
+    "detector_rail": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "diamond_block": {
+        "thumbnail-color": [
+            98,
+            237,
+            228,
+            255.0
+        ]
+    },
+    "diamond_ore": {
+        "thumbnail-color": [
+            121,
+            141,
+            140,
+            255.0
+        ]
+    },
+    "diorite": {
+        "thumbnail-color": [
+            188,
+            188,
+            188,
+            255.0
+        ]
+    },
+    "diorite_slab": {
+        "thumbnail-color": [
+            188,
+            188,
+            188,
+            255.0
+        ]
+    },
+    "diorite_stairs": {
+        "thumbnail-color": [
+            188,
+            188,
+            188,
+            255.0
+        ]
+    },
+    "diorite_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dirt": {
+        "thumbnail-color": [
+            134,
+            96,
+            67,
+            255.0
+        ]
+    },
+    "dirt_path": {
+        "thumbnail-color": [
+            148,
+            121,
+            65,
+            255.0
+        ]
+    },
+    "dispenser": {
+        "thumbnail-color": [
+            110,
+            109,
+            109,
+            255.0
+        ]
+    },
+    "dragon_egg": {
+        "thumbnail-color": [
+            12,
+            9,
+            15,
+            255.0
+        ]
+    },
+    "dragon_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dragon_wall_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dried_kelp_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "dripstone_block": {
+        "thumbnail-color": [
+            134,
+            107,
+            92,
+            255.0
+        ]
+    },
+    "dropper": {
+        "thumbnail-color": [
+            110,
+            109,
+            109,
+            255.0
+        ]
+    },
+    "emerald_block": {
+        "thumbnail-color": [
+            42,
+            203,
+            87,
+            255.0
+        ]
+    },
+    "emerald_ore": {
+        "thumbnail-color": [
+            108,
+            136,
+            115,
+            255.0
+        ]
+    },
+    "enchanting_table": {
+        "thumbnail-color": [
+            128,
+            75,
+            85,
+            255.0
+        ]
+    },
+    "end_gateway": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "end_portal": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "end_portal_frame": {
+        "thumbnail-color": [
+            91,
+            120,
+            97,
+            255.0
+        ]
+    },
+    "end_rod": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "end_stone": {
+        "thumbnail-color": [
+            219,
+            222,
+            158,
+            255.0
+        ]
+    },
+    "end_stone_brick_slab": {
+        "thumbnail-color": [
+            218,
+            224,
+            162,
+            255.0
+        ]
+    },
+    "end_stone_brick_stairs": {
+        "thumbnail-color": [
+            218,
+            224,
+            162,
+            255.0
+        ]
+    },
+    "end_stone_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "end_stone_bricks": {
+        "thumbnail-color": [
+            218,
+            224,
+            162,
+            255.0
+        ]
+    },
+    "ender_chest": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "exposed_chiseled_copper": {
+        "thumbnail-color": [
+            154,
+            119,
+            100,
+            255.0
+        ]
+    },
+    "exposed_copper": {
+        "thumbnail-color": [
+            161,
+            125,
+            103,
+            255.0
+        ]
+    },
+    "exposed_copper_bulb": {
+        "thumbnail-color": [
+            195,
+            144,
+            99,
+            255.0
+        ]
+    },
+    "exposed_copper_door": {
+        "thumbnail-color": [
+            133,
+            100,
+            86,
+            207.1875
+        ]
+    },
+    "exposed_copper_grate": {
+        "thumbnail-color": [
+            113,
+            88,
+            73,
+            178.30078125
+        ]
+    },
+    "exposed_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "exposed_cut_copper": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "exposed_cut_copper_slab": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "exposed_cut_copper_stairs": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "farmland": {
+        "thumbnail-color": [
+            81,
+            44,
+            15,
+            255.0
+        ]
+    },
+    "fern": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "fire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "fire_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "fire_coral_block": {
+        "thumbnail-color": [
+            163,
+            35,
+            46,
+            255.0
+        ]
+    },
+    "fire_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "fire_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "fletching_table": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "flower_pot": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "flowering_azalea": {
+        "thumbnail-color": [
+            112,
+            121,
+            64,
+            255.0
+        ]
+    },
+    "flowering_azalea_leaves": {
+        "thumbnail-color": [
+            79,
+            88,
+            48,
+            204.19921875
+        ]
+    },
+    "frogspawn": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "frosted_ice": {
+        "thumbnail-color": [
+            135,
+            178,
+            252,
+            212.125
+        ]
+    },
+    "furnace": {
+        "thumbnail-color": [
+            110,
+            109,
+            109,
+            255.0
+        ]
+    },
+    "gilded_blackstone": {
+        "thumbnail-color": [
+            55,
+            42,
+            38,
+            255.0
+        ]
+    },
+    "glass": {
+        "thumbnail-color": [
+            140,
+            149,
+            151,
+            64.74609375
+        ]
+    },
+    "glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "glow_item_frame": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "glow_lichen": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "glowstone": {
+        "thumbnail-color": [
+            171,
+            131,
+            84,
+            255.0
+        ]
+    },
+    "gold_block": {
+        "thumbnail-color": [
+            246,
+            208,
+            61,
+            255.0
+        ]
+    },
+    "gold_ore": {
+        "thumbnail-color": [
+            145,
+            133,
+            106,
+            255.0
+        ]
+    },
+    "granite": {
+        "thumbnail-color": [
+            149,
+            103,
+            85,
+            255.0
+        ]
+    },
+    "granite_slab": {
+        "thumbnail-color": [
+            149,
+            103,
+            85,
+            255.0
+        ]
+    },
+    "granite_stairs": {
+        "thumbnail-color": [
+            149,
+            103,
+            85,
+            255.0
+        ]
+    },
+    "granite_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "grass_block": {
+        "thumbnail-color": [
+            65,
+            152,
+            10,
+            255.0
+        ]
+    },
+    "gravel": {
+        "thumbnail-color": [
+            131,
+            127,
+            126,
+            255.0
+        ]
+    },
+    "gray_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_candle": {
+        "thumbnail-color": [
+            9,
+            10,
+            8,
+            20.91796875
+        ]
+    },
+    "gray_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "gray_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_concrete": {
+        "thumbnail-color": [
+            54,
+            57,
+            61,
+            255.0
+        ]
+    },
+    "gray_concrete_powder": {
+        "thumbnail-color": [
+            76,
+            81,
+            84,
+            255.0
+        ]
+    },
+    "gray_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_stained_glass": {
+        "thumbnail-color": [
+            76,
+            76,
+            76,
+            117.33203125
+        ]
+    },
+    "gray_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_terracotta": {
+        "thumbnail-color": [
+            57,
+            42,
+            35,
+            255.0
+        ]
+    },
+    "gray_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "gray_wool": {
+        "thumbnail-color": [
+            62,
+            68,
+            71,
+            255.0
+        ]
+    },
+    "green_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_candle": {
+        "thumbnail-color": [
+            8,
+            9,
+            1,
+            20.91796875
+        ]
+    },
+    "green_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "green_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_concrete": {
+        "thumbnail-color": [
+            73,
+            91,
+            36,
+            255.0
+        ]
+    },
+    "green_concrete_powder": {
+        "thumbnail-color": [
+            97,
+            119,
+            44,
+            255.0
+        ]
+    },
+    "green_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_stained_glass": {
+        "thumbnail-color": [
+            102,
+            127,
+            51,
+            117.33203125
+        ]
+    },
+    "green_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_terracotta": {
+        "thumbnail-color": [
+            76,
+            83,
+            42,
+            255.0
+        ]
+    },
+    "green_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "green_wool": {
+        "thumbnail-color": [
+            84,
+            109,
+            27,
+            255.0
+        ]
+    },
+    "grindstone": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "hanging_roots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "hay_block": {
+        "thumbnail-color": [
+            165,
+            139,
+            12,
+            255.0
+        ]
+    },
+    "heavy_weighted_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "honey_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "honeycomb_block": {
+        "thumbnail-color": [
+            229,
+            148,
+            29,
+            255.0
+        ]
+    },
+    "hopper": {
+        "thumbnail-color": [
+            46,
+            45,
+            46,
+            155.390625
+        ]
+    },
+    "horn_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "horn_coral_block": {
+        "thumbnail-color": [
+            216,
+            199,
+            66,
+            255.0
+        ]
+    },
+    "horn_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "horn_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "ice": {
+        "thumbnail-color": [
+            145,
+            183,
+            253,
+            190.0
+        ]
+    },
+    "infested_chiseled_stone_bricks": {
+        "thumbnail-color": [
+            119,
+            118,
+            119,
+            255.0
+        ]
+    },
+    "infested_cobblestone": {
+        "thumbnail-color": [
+            127,
+            127,
+            127,
+            255.0
+        ]
+    },
+    "infested_cracked_stone_bricks": {
+        "thumbnail-color": [
+            118,
+            117,
+            118,
+            255.0
+        ]
+    },
+    "infested_deepslate": {
+        "thumbnail-color": [
+            87,
+            87,
+            89,
+            255.0
+        ]
+    },
+    "infested_mossy_stone_bricks": {
+        "thumbnail-color": [
+            115,
+            121,
+            105,
+            255.0
+        ]
+    },
+    "infested_stone": {
+        "thumbnail-color": [
+            125,
+            125,
+            125,
+            255.0
+        ]
+    },
+    "infested_stone_bricks": {
+        "thumbnail-color": [
+            122,
+            121,
+            122,
+            255.0
+        ]
+    },
+    "iron_bars": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "iron_block": {
+        "thumbnail-color": [
+            220,
+            220,
+            220,
+            255.0
+        ]
+    },
+    "iron_door": {
+        "thumbnail-color": [
+            157,
+            156,
+            156,
+            207.1875
+        ]
+    },
+    "iron_ore": {
+        "thumbnail-color": [
+            136,
+            129,
+            122,
+            255.0
+        ]
+    },
+    "iron_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "item_frame": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jack_o_lantern": {
+        "thumbnail-color": [
+            198,
+            118,
+            24,
+            255.0
+        ]
+    },
+    "jigsaw": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jukebox": {
+        "thumbnail-color": [
+            93,
+            64,
+            47,
+            255.0
+        ]
+    },
+    "jungle_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_door": {
+        "thumbnail-color": [
+            144,
+            105,
+            74,
+            225.1171875
+        ]
+    },
+    "jungle_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_leaves": {
+        "thumbnail-color": [
+            72,
+            201,
+            24,
+            178.30078125
+        ]
+    },
+    "jungle_log": {
+        "thumbnail-color": [
+            149,
+            109,
+            70,
+            255.0
+        ]
+    },
+    "jungle_planks": {
+        "thumbnail-color": [
+            160,
+            115,
+            80,
+            255.0
+        ]
+    },
+    "jungle_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_slab": {
+        "thumbnail-color": [
+            160,
+            115,
+            80,
+            255.0
+        ]
+    },
+    "jungle_stairs": {
+        "thumbnail-color": [
+            160,
+            115,
+            80,
+            255.0
+        ]
+    },
+    "jungle_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "jungle_wood": {
+        "thumbnail-color": [
+            85,
+            67,
+            25,
+            255.0
+        ]
+    },
+    "kelp": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "kelp_plant": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "ladder": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lantern": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lapis_block": {
+        "thumbnail-color": [
+            30,
+            67,
+            140,
+            255.0
+        ]
+    },
+    "lapis_ore": {
+        "thumbnail-color": [
+            107,
+            117,
+            141,
+            255.0
+        ]
+    },
+    "large_amethyst_bud": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "large_fern": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lava": {
+        "thumbnail-color": [
+            255,
+            102,
+            0,
+            255
+        ]
+    },
+    "lava_cauldron": {
+        "thumbnail-color": [
+            44,
+            44,
+            45,
+            155.390625
+        ]
+    },
+    "lectern": {
+        "thumbnail-color": [
+            173,
+            137,
+            83,
+            255.0
+        ]
+    },
+    "lever": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_candle": {
+        "thumbnail-color": [
+            5,
+            13,
+            16,
+            20.91796875
+        ]
+    },
+    "light_blue_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "light_blue_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_concrete": {
+        "thumbnail-color": [
+            35,
+            137,
+            198,
+            255.0
+        ]
+    },
+    "light_blue_concrete_powder": {
+        "thumbnail-color": [
+            74,
+            180,
+            213,
+            255.0
+        ]
+    },
+    "light_blue_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_stained_glass": {
+        "thumbnail-color": [
+            102,
+            153,
+            216,
+            117.33203125
+        ]
+    },
+    "light_blue_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_terracotta": {
+        "thumbnail-color": [
+            113,
+            108,
+            137,
+            255.0
+        ]
+    },
+    "light_blue_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_blue_wool": {
+        "thumbnail-color": [
+            58,
+            175,
+            217,
+            255.0
+        ]
+    },
+    "light_gray_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_candle": {
+        "thumbnail-color": [
+            12,
+            12,
+            10,
+            20.91796875
+        ]
+    },
+    "light_gray_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "light_gray_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_concrete": {
+        "thumbnail-color": [
+            125,
+            125,
+            115,
+            255.0
+        ]
+    },
+    "light_gray_concrete_powder": {
+        "thumbnail-color": [
+            154,
+            154,
+            148,
+            255.0
+        ]
+    },
+    "light_gray_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_stained_glass": {
+        "thumbnail-color": [
+            153,
+            153,
+            153,
+            117.33203125
+        ]
+    },
+    "light_gray_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_terracotta": {
+        "thumbnail-color": [
+            135,
+            106,
+            97,
+            255.0
+        ]
+    },
+    "light_gray_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "light_gray_wool": {
+        "thumbnail-color": [
+            142,
+            142,
+            134,
+            255.0
+        ]
+    },
+    "light_weighted_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lightning_rod": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lilac": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lily_of_the_valley": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lily_pad": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_candle": {
+        "thumbnail-color": [
+            10,
+            14,
+            2,
+            20.91796875
+        ]
+    },
+    "lime_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "lime_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_concrete": {
+        "thumbnail-color": [
+            94,
+            168,
+            24,
+            255.0
+        ]
+    },
+    "lime_concrete_powder": {
+        "thumbnail-color": [
+            125,
+            189,
+            41,
+            255.0
+        ]
+    },
+    "lime_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_stained_glass": {
+        "thumbnail-color": [
+            127,
+            204,
+            25,
+            117.33203125
+        ]
+    },
+    "lime_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_terracotta": {
+        "thumbnail-color": [
+            103,
+            117,
+            52,
+            255.0
+        ]
+    },
+    "lime_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "lime_wool": {
+        "thumbnail-color": [
+            112,
+            185,
+            25,
+            255.0
+        ]
+    },
+    "lodestone": {
+        "thumbnail-color": [
+            147,
+            149,
+            152,
+            255.0
+        ]
+    },
+    "loom": {
+        "thumbnail-color": [
+            142,
+            119,
+            91,
+            255.0
+        ]
+    },
+    "magenta_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_candle": {
+        "thumbnail-color": [
+            14,
+            5,
+            13,
+            20.91796875
+        ]
+    },
+    "magenta_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "magenta_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_concrete": {
+        "thumbnail-color": [
+            169,
+            48,
+            159,
+            255.0
+        ]
+    },
+    "magenta_concrete_powder": {
+        "thumbnail-color": [
+            192,
+            83,
+            184,
+            255.0
+        ]
+    },
+    "magenta_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_stained_glass": {
+        "thumbnail-color": [
+            178,
+            76,
+            216,
+            117.33203125
+        ]
+    },
+    "magenta_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_terracotta": {
+        "thumbnail-color": [
+            149,
+            88,
+            108,
+            255.0
+        ]
+    },
+    "magenta_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "magenta_wool": {
+        "thumbnail-color": [
+            189,
+            68,
+            179,
+            255.0
+        ]
+    },
+    "magma_block": {
+        "thumbnail-color": [
+            142,
+            63,
+            31,
+            255.0
+        ]
+    },
+    "mangrove_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_door": {
+        "thumbnail-color": [
+            112,
+            48,
+            46,
+            255.0
+        ]
+    },
+    "mangrove_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_leaves": {
+        "thumbnail-color": [
+            146,
+            198,
+            72,
+            211.171875
+        ]
+    },
+    "mangrove_log": {
+        "thumbnail-color": [
+            102,
+            48,
+            42,
+            255.0
+        ]
+    },
+    "mangrove_planks": {
+        "thumbnail-color": [
+            117,
+            54,
+            48,
+            255.0
+        ]
+    },
+    "mangrove_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_propagule": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_roots": {
+        "thumbnail-color": [
+            51,
+            41,
+            26,
+            176.30859375
+        ]
+    },
+    "mangrove_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_slab": {
+        "thumbnail-color": [
+            117,
+            54,
+            48,
+            255.0
+        ]
+    },
+    "mangrove_stairs": {
+        "thumbnail-color": [
+            117,
+            54,
+            48,
+            255.0
+        ]
+    },
+    "mangrove_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mangrove_wood": {
+        "thumbnail-color": [
+            83,
+            66,
+            41,
+            255.0
+        ]
+    },
+    "medium_amethyst_bud": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "melon": {
+        "thumbnail-color": [
+            111,
+            144,
+            30,
+            255.0
+        ]
+    },
+    "melon_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "moss_block": {
+        "thumbnail-color": [
+            89,
+            109,
+            45,
+            255.0
+        ]
+    },
+    "moss_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mossy_cobblestone": {
+        "thumbnail-color": [
+            110,
+            118,
+            94,
+            255.0
+        ]
+    },
+    "mossy_cobblestone_slab": {
+        "thumbnail-color": [
+            110,
+            118,
+            94,
+            255.0
+        ]
+    },
+    "mossy_cobblestone_stairs": {
+        "thumbnail-color": [
+            110,
+            118,
+            94,
+            255.0
+        ]
+    },
+    "mossy_cobblestone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mossy_stone_brick_slab": {
+        "thumbnail-color": [
+            115,
+            121,
+            105,
+            255.0
+        ]
+    },
+    "mossy_stone_brick_stairs": {
+        "thumbnail-color": [
+            115,
+            121,
+            105,
+            255.0
+        ]
+    },
+    "mossy_stone_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mossy_stone_bricks": {
+        "thumbnail-color": [
+            115,
+            121,
+            105,
+            255.0
+        ]
+    },
+    "moving_piston": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mud": {
+        "thumbnail-color": [
+            60,
+            57,
+            60,
+            255.0
+        ]
+    },
+    "mud_brick_slab": {
+        "thumbnail-color": [
+            137,
+            103,
+            79,
+            255.0
+        ]
+    },
+    "mud_brick_stairs": {
+        "thumbnail-color": [
+            137,
+            103,
+            79,
+            255.0
+        ]
+    },
+    "mud_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mud_bricks": {
+        "thumbnail-color": [
+            137,
+            103,
+            79,
+            255.0
+        ]
+    },
+    "muddy_mangrove_roots": {
+        "thumbnail-color": [
+            70,
+            58,
+            45,
+            255.0
+        ]
+    },
+    "mushroom_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "mycelium": {
+        "thumbnail-color": [
+            147,
+            147,
+            147,
+            255.0
+        ]
+    },
+    "nether_brick_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "nether_brick_slab": {
+        "thumbnail-color": [
+            44,
+            21,
+            26,
+            255.0
+        ]
+    },
+    "nether_brick_stairs": {
+        "thumbnail-color": [
+            44,
+            21,
+            26,
+            255.0
+        ]
+    },
+    "nether_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "nether_bricks": {
+        "thumbnail-color": [
+            44,
+            21,
+            26,
+            255.0
+        ]
+    },
+    "nether_gold_ore": {
+        "thumbnail-color": [
+            115,
+            54,
+            42,
+            255.0
+        ]
+    },
+    "nether_portal": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "nether_quartz_ore": {
+        "thumbnail-color": [
+            117,
+            65,
+            62,
+            255.0
+        ]
+    },
+    "nether_sprouts": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "nether_wart": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "nether_wart_block": {
+        "thumbnail-color": [
+            114,
+            2,
+            2,
+            255.0
+        ]
+    },
+    "netherite_block": {
+        "thumbnail-color": [
+            66,
+            61,
+            63,
+            255.0
+        ]
+    },
+    "netherrack": {
+        "thumbnail-color": [
+            97,
+            38,
+            38,
+            255.0
+        ]
+    },
+    "note_block": {
+        "thumbnail-color": [
+            88,
+            58,
+            40,
+            255.0
+        ]
+    },
+    "oak_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_door": {
+        "thumbnail-color": [
+            114,
+            90,
+            53,
+            207.1875
+        ]
+    },
+    "oak_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_leaves": {
+        "thumbnail-color": [
+            72,
+            191,
+            24,
+            178.30078125
+        ]
+    },
+    "oak_log": {
+        "thumbnail-color": [
+            151,
+            121,
+            73,
+            255.0
+        ]
+    },
+    "oak_planks": {
+        "thumbnail-color": [
+            162,
+            130,
+            78,
+            255.0
+        ]
+    },
+    "oak_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_slab": {
+        "thumbnail-color": [
+            162,
+            130,
+            78,
+            255.0
+        ]
+    },
+    "oak_stairs": {
+        "thumbnail-color": [
+            162,
+            130,
+            78,
+            255.0
+        ]
+    },
+    "oak_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oak_wood": {
+        "thumbnail-color": [
+            109,
+            85,
+            50,
+            255.0
+        ]
+    },
+    "observer": {
+        "thumbnail-color": [
+            98,
+            98,
+            98,
+            255.0
+        ]
+    },
+    "obsidian": {
+        "thumbnail-color": [
+            15,
+            10,
+            24,
+            255.0
+        ]
+    },
+    "ochre_froglight": {
+        "thumbnail-color": [
+            250,
+            245,
+            206,
+            255.0
+        ]
+    },
+    "orange_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_candle": {
+        "thumbnail-color": [
+            18,
+            10,
+            2,
+            20.91796875
+        ]
+    },
+    "orange_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "orange_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_concrete": {
+        "thumbnail-color": [
+            224,
+            97,
+            0,
+            255.0
+        ]
+    },
+    "orange_concrete_powder": {
+        "thumbnail-color": [
+            227,
+            131,
+            31,
+            255.0
+        ]
+    },
+    "orange_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_stained_glass": {
+        "thumbnail-color": [
+            216,
+            127,
+            51,
+            117.33203125
+        ]
+    },
+    "orange_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_terracotta": {
+        "thumbnail-color": [
+            161,
+            83,
+            37,
+            255.0
+        ]
+    },
+    "orange_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "orange_wool": {
+        "thumbnail-color": [
+            240,
+            118,
+            19,
+            255.0
+        ]
+    },
+    "oxeye_daisy": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oxidized_chiseled_copper": {
+        "thumbnail-color": [
+            83,
+            161,
+            132,
+            255.0
+        ]
+    },
+    "oxidized_copper": {
+        "thumbnail-color": [
+            82,
+            162,
+            132,
+            255.0
+        ]
+    },
+    "oxidized_copper_bulb": {
+        "thumbnail-color": [
+            136,
+            152,
+            102,
+            255.0
+        ]
+    },
+    "oxidized_copper_door": {
+        "thumbnail-color": [
+            66,
+            130,
+            107,
+            207.1875
+        ]
+    },
+    "oxidized_copper_grate": {
+        "thumbnail-color": [
+            57,
+            112,
+            91,
+            178.30078125
+        ]
+    },
+    "oxidized_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "oxidized_cut_copper": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "oxidized_cut_copper_slab": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "oxidized_cut_copper_stairs": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "packed_ice": {
+        "thumbnail-color": [
+            141,
+            180,
+            250,
+            255.0
+        ]
+    },
+    "packed_mud": {
+        "thumbnail-color": [
+            142,
+            106,
+            79,
+            255.0
+        ]
+    },
+    "pearlescent_froglight": {
+        "thumbnail-color": [
+            245,
+            240,
+            239,
+            255.0
+        ]
+    },
+    "peony": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "petrified_oak_slab": {
+        "thumbnail-color": [
+            162,
+            130,
+            78,
+            255.0
+        ]
+    },
+    "piglin_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "piglin_wall_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_candle": {
+        "thumbnail-color": [
+            17,
+            10,
+            12,
+            20.91796875
+        ]
+    },
+    "pink_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "pink_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_concrete": {
+        "thumbnail-color": [
+            213,
+            101,
+            142,
+            255.0
+        ]
+    },
+    "pink_concrete_powder": {
+        "thumbnail-color": [
+            228,
+            153,
+            181,
+            255.0
+        ]
+    },
+    "pink_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_petals": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_stained_glass": {
+        "thumbnail-color": [
+            242,
+            127,
+            165,
+            117.33203125
+        ]
+    },
+    "pink_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_terracotta": {
+        "thumbnail-color": [
+            161,
+            78,
+            78,
+            255.0
+        ]
+    },
+    "pink_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pink_wool": {
+        "thumbnail-color": [
+            237,
+            141,
+            172,
+            255.0
+        ]
+    },
+    "piston": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "piston_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pitcher_crop": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pitcher_plant": {
+        "thumbnail-color": [
+            56,
+            67,
+            87,
+            118.53515625
+        ]
+    },
+    "player_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "player_wall_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "podzol": {
+        "thumbnail-color": [
+            147,
+            147,
+            147,
+            255.0
+        ]
+    },
+    "pointed_dripstone": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_andesite": {
+        "thumbnail-color": [
+            132,
+            134,
+            133,
+            255.0
+        ]
+    },
+    "polished_andesite_slab": {
+        "thumbnail-color": [
+            132,
+            134,
+            133,
+            255.0
+        ]
+    },
+    "polished_andesite_stairs": {
+        "thumbnail-color": [
+            132,
+            134,
+            133,
+            255.0
+        ]
+    },
+    "polished_basalt": {
+        "thumbnail-color": [
+            99,
+            98,
+            100,
+            255.0
+        ]
+    },
+    "polished_blackstone": {
+        "thumbnail-color": [
+            53,
+            48,
+            56,
+            255.0
+        ]
+    },
+    "polished_blackstone_brick_slab": {
+        "thumbnail-color": [
+            48,
+            42,
+            49,
+            255.0
+        ]
+    },
+    "polished_blackstone_brick_stairs": {
+        "thumbnail-color": [
+            48,
+            42,
+            49,
+            255.0
+        ]
+    },
+    "polished_blackstone_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_blackstone_bricks": {
+        "thumbnail-color": [
+            48,
+            42,
+            49,
+            255.0
+        ]
+    },
+    "polished_blackstone_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_blackstone_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_blackstone_slab": {
+        "thumbnail-color": [
+            53,
+            48,
+            56,
+            255.0
+        ]
+    },
+    "polished_blackstone_stairs": {
+        "thumbnail-color": [
+            53,
+            48,
+            56,
+            255.0
+        ]
+    },
+    "polished_blackstone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_deepslate": {
+        "thumbnail-color": [
+            72,
+            72,
+            73,
+            255.0
+        ]
+    },
+    "polished_deepslate_slab": {
+        "thumbnail-color": [
+            72,
+            72,
+            73,
+            255.0
+        ]
+    },
+    "polished_deepslate_stairs": {
+        "thumbnail-color": [
+            72,
+            72,
+            73,
+            255.0
+        ]
+    },
+    "polished_deepslate_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "polished_diorite": {
+        "thumbnail-color": [
+            192,
+            193,
+            194,
+            255.0
+        ]
+    },
+    "polished_diorite_slab": {
+        "thumbnail-color": [
+            192,
+            193,
+            194,
+            255.0
+        ]
+    },
+    "polished_diorite_stairs": {
+        "thumbnail-color": [
+            192,
+            193,
+            194,
+            255.0
+        ]
+    },
+    "polished_granite": {
+        "thumbnail-color": [
+            154,
+            106,
+            89,
+            255.0
+        ]
+    },
+    "polished_granite_slab": {
+        "thumbnail-color": [
+            154,
+            106,
+            89,
+            255.0
+        ]
+    },
+    "polished_granite_stairs": {
+        "thumbnail-color": [
+            154,
+            106,
+            89,
+            255.0
+        ]
+    },
+    "polished_tuff": {
+        "thumbnail-color": [
+            97,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "polished_tuff_slab": {
+        "thumbnail-color": [
+            97,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "polished_tuff_stairs": {
+        "thumbnail-color": [
+            97,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "polished_tuff_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "poppy": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potatoes": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_acacia_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_allium": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_azalea_bush": {
+        "thumbnail-color": [
+            25,
+            30,
+            11,
+            63.75
+        ]
+    },
+    "potted_azure_bluet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_bamboo": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_birch_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_blue_orchid": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_brown_mushroom": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_cactus": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_cherry_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_cornflower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_crimson_fungus": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_crimson_roots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_dandelion": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_dark_oak_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_dead_bush": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_fern": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_flowering_azalea_bush": {
+        "thumbnail-color": [
+            28,
+            29,
+            17,
+            63.75
+        ]
+    },
+    "potted_jungle_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_lily_of_the_valley": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_mangrove_propagule": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_oak_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_orange_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_oxeye_daisy": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_pink_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_poppy": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_red_mushroom": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_red_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_spruce_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_torchflower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_warped_fungus": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_warped_roots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_white_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "potted_wither_rose": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "powder_snow": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "powder_snow_cauldron": {
+        "thumbnail-color": [
+            44,
+            44,
+            45,
+            155.390625
+        ]
+    },
+    "powered_rail": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "prismarine": {
+        "thumbnail-color": [
+            99,
+            156,
+            151,
+            255.0
+        ]
+    },
+    "prismarine_brick_slab": {
+        "thumbnail-color": [
+            99,
+            171,
+            158,
+            255.0
+        ]
+    },
+    "prismarine_brick_stairs": {
+        "thumbnail-color": [
+            99,
+            171,
+            158,
+            255.0
+        ]
+    },
+    "prismarine_bricks": {
+        "thumbnail-color": [
+            99,
+            171,
+            158,
+            255.0
+        ]
+    },
+    "prismarine_slab": {
+        "thumbnail-color": [
+            99,
+            156,
+            151,
+            255.0
+        ]
+    },
+    "prismarine_stairs": {
+        "thumbnail-color": [
+            99,
+            156,
+            151,
+            255.0
+        ]
+    },
+    "prismarine_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "pumpkin": {
+        "thumbnail-color": [
+            198,
+            118,
+            24,
+            255.0
+        ]
+    },
+    "pumpkin_stem": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_candle": {
+        "thumbnail-color": [
+            10,
+            2,
+            11,
+            20.91796875
+        ]
+    },
+    "purple_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "purple_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_concrete": {
+        "thumbnail-color": [
+            100,
+            31,
+            156,
+            255.0
+        ]
+    },
+    "purple_concrete_powder": {
+        "thumbnail-color": [
+            131,
+            55,
+            177,
+            255.0
+        ]
+    },
+    "purple_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_stained_glass": {
+        "thumbnail-color": [
+            127,
+            63,
+            178,
+            117.33203125
+        ]
+    },
+    "purple_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_terracotta": {
+        "thumbnail-color": [
+            118,
+            70,
+            86,
+            255.0
+        ]
+    },
+    "purple_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "purple_wool": {
+        "thumbnail-color": [
+            121,
+            42,
+            172,
+            255.0
+        ]
+    },
+    "purpur_block": {
+        "thumbnail-color": [
+            169,
+            125,
+            169,
+            255.0
+        ]
+    },
+    "purpur_pillar": {
+        "thumbnail-color": [
+            171,
+            128,
+            171,
+            255.0
+        ]
+    },
+    "purpur_slab": {
+        "thumbnail-color": [
+            169,
+            125,
+            169,
+            255.0
+        ]
+    },
+    "purpur_stairs": {
+        "thumbnail-color": [
+            169,
+            125,
+            169,
+            255.0
+        ]
+    },
+    "quartz_block": {
+        "thumbnail-color": [
+            235,
+            229,
+            222,
+            255.0
+        ]
+    },
+    "quartz_bricks": {
+        "thumbnail-color": [
+            234,
+            229,
+            221,
+            255.0
+        ]
+    },
+    "quartz_pillar": {
+        "thumbnail-color": [
+            235,
+            229,
+            222,
+            255.0
+        ]
+    },
+    "quartz_slab": {
+        "thumbnail-color": [
+            235,
+            229,
+            222,
+            255.0
+        ]
+    },
+    "quartz_stairs": {
+        "thumbnail-color": [
+            235,
+            229,
+            222,
+            255.0
+        ]
+    },
+    "rail": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "raw_copper_block": {
+        "thumbnail-color": [
+            154,
+            105,
+            79,
+            255.0
+        ]
+    },
+    "raw_gold_block": {
+        "thumbnail-color": [
+            221,
+            169,
+            46,
+            255.0
+        ]
+    },
+    "raw_iron_block": {
+        "thumbnail-color": [
+            166,
+            135,
+            107,
+            255.0
+        ]
+    },
+    "red_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_candle": {
+        "thumbnail-color": [
+            14,
+            5,
+            3,
+            20.91796875
+        ]
+    },
+    "red_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "red_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_concrete": {
+        "thumbnail-color": [
+            142,
+            32,
+            32,
+            255.0
+        ]
+    },
+    "red_concrete_powder": {
+        "thumbnail-color": [
+            168,
+            54,
+            50,
+            255.0
+        ]
+    },
+    "red_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_mushroom": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_mushroom_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_nether_brick_slab": {
+        "thumbnail-color": [
+            69,
+            7,
+            9,
+            255.0
+        ]
+    },
+    "red_nether_brick_stairs": {
+        "thumbnail-color": [
+            69,
+            7,
+            9,
+            255.0
+        ]
+    },
+    "red_nether_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_nether_bricks": {
+        "thumbnail-color": [
+            69,
+            7,
+            9,
+            255.0
+        ]
+    },
+    "red_sand": {
+        "thumbnail-color": [
+            190,
+            102,
+            33,
+            255.0
+        ]
+    },
+    "red_sandstone": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "red_sandstone_slab": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "red_sandstone_stairs": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "red_sandstone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_stained_glass": {
+        "thumbnail-color": [
+            153,
+            51,
+            51,
+            117.33203125
+        ]
+    },
+    "red_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_terracotta": {
+        "thumbnail-color": [
+            143,
+            61,
+            46,
+            255.0
+        ]
+    },
+    "red_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "red_wool": {
+        "thumbnail-color": [
+            160,
+            39,
+            34,
+            255.0
+        ]
+    },
+    "redstone_block": {
+        "thumbnail-color": [
+            175,
+            24,
+            5,
+            255.0
+        ]
+    },
+    "redstone_lamp": {
+        "thumbnail-color": [
+            142,
+            101,
+            60,
+            255.0
+        ]
+    },
+    "redstone_ore": {
+        "thumbnail-color": [
+            140,
+            109,
+            109,
+            255.0
+        ]
+    },
+    "redstone_torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "redstone_wall_torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "redstone_wire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "reinforced_deepslate": {
+        "thumbnail-color": [
+            80,
+            82,
+            78,
+            255.0
+        ]
+    },
+    "repeater": {
+        "thumbnail-color": [
+            169,
+            157,
+            156,
+            255.0
+        ]
+    },
+    "repeating_command_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "respawn_anchor": {
+        "thumbnail-color": [
+            76,
+            23,
+            150,
+            219.59716796875
+        ]
+    },
+    "rooted_dirt": {
+        "thumbnail-color": [
+            144,
+            103,
+            76,
+            255.0
+        ]
+    },
+    "rose_bush": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "sand": {
+        "thumbnail-color": [
+            219,
+            207,
+            163,
+            255.0
+        ]
+    },
+    "sandstone": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "sandstone_slab": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "sandstone_stairs": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "sandstone_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "scaffolding": {
+        "thumbnail-color": [
+            178,
+            143,
+            90,
+            231.09375
+        ]
+    },
+    "sculk": {
+        "thumbnail-color": [
+            12,
+            29,
+            36,
+            255.0
+        ]
+    },
+    "sculk_catalyst": {
+        "thumbnail-color": [
+            16,
+            45,
+            50,
+            255.0
+        ]
+    },
+    "sculk_sensor": {
+        "thumbnail-color": [
+            7,
+            70,
+            84,
+            255.0
+        ]
+    },
+    "sculk_shrieker": {
+        "thumbnail-color": [
+            40,
+            41,
+            34,
+            51.796875
+        ]
+    },
+    "sculk_vein": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "sea_lantern": {
+        "thumbnail-color": [
+            172,
+            199,
+            190,
+            255.0
+        ]
+    },
+    "sea_pickle": {
+        "thumbnail-color": [
+            112,
+            118,
+            69,
+            215.15625
+        ]
+    },
+    "seagrass": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "short_grass": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "shroomlight": {
+        "thumbnail-color": [
+            240,
+            146,
+            70,
+            255.0
+        ]
+    },
+    "shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "skeleton_skull": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "skeleton_wall_skull": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "slime_block": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "small_amethyst_bud": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "small_dripleaf": {
+        "thumbnail-color": [
+            23,
+            29,
+            11,
+            63.75
+        ]
+    },
+    "smithing_table": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "smoker": {
+        "thumbnail-color": [
+            85,
+            83,
+            81,
+            255.0
+        ]
+    },
+    "smooth_basalt": {
+        "thumbnail-color": [
+            72,
+            72,
+            78,
+            255.0
+        ]
+    },
+    "smooth_quartz": {
+        "thumbnail-color": [
+            236,
+            230,
+            223,
+            255.0
+        ]
+    },
+    "smooth_quartz_slab": {
+        "thumbnail-color": [
+            236,
+            230,
+            223,
+            255.0
+        ]
+    },
+    "smooth_quartz_stairs": {
+        "thumbnail-color": [
+            236,
+            230,
+            223,
+            255.0
+        ]
+    },
+    "smooth_red_sandstone": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "smooth_red_sandstone_slab": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "smooth_red_sandstone_stairs": {
+        "thumbnail-color": [
+            181,
+            97,
+            31,
+            255.0
+        ]
+    },
+    "smooth_sandstone": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "smooth_sandstone_slab": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "smooth_sandstone_stairs": {
+        "thumbnail-color": [
+            223,
+            214,
+            170,
+            255.0
+        ]
+    },
+    "smooth_stone": {
+        "thumbnail-color": [
+            158,
+            158,
+            158,
+            255.0
+        ]
+    },
+    "smooth_stone_slab": {
+        "thumbnail-color": [
+            158,
+            158,
+            158,
+            255.0
+        ]
+    },
+    "sniffer_egg": {
+        "thumbnail-color": [
+            78,
+            58,
+            38,
+            167.34375
+        ]
+    },
+    "snow": {
+        "thumbnail-color": [
+            249,
+            254,
+            254,
+            255.0
+        ]
+    },
+    "snow_block": {
+        "thumbnail-color": [
+            249,
+            254,
+            254,
+            255.0
+        ]
+    },
+    "soul_campfire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "soul_fire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "soul_lantern": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "soul_sand": {
+        "thumbnail-color": [
+            81,
+            62,
+            50,
+            255.0
+        ]
+    },
+    "soul_soil": {
+        "thumbnail-color": [
+            75,
+            57,
+            46,
+            255.0
+        ]
+    },
+    "soul_torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "soul_wall_torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spawner": {
+        "thumbnail-color": [
+            25,
+            31,
+            43,
+            175.3125
+        ]
+    },
+    "sponge": {
+        "thumbnail-color": [
+            195,
+            192,
+            74,
+            255.0
+        ]
+    },
+    "spore_blossom": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_door": {
+        "thumbnail-color": [
+            106,
+            80,
+            48,
+            255.0
+        ]
+    },
+    "spruce_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_leaves": {
+        "thumbnail-color": [
+            97,
+            153,
+            97,
+            159.375
+        ]
+    },
+    "spruce_log": {
+        "thumbnail-color": [
+            108,
+            80,
+            46,
+            255.0
+        ]
+    },
+    "spruce_planks": {
+        "thumbnail-color": [
+            114,
+            84,
+            48,
+            255.0
+        ]
+    },
+    "spruce_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_sapling": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_slab": {
+        "thumbnail-color": [
+            114,
+            84,
+            48,
+            255.0
+        ]
+    },
+    "spruce_stairs": {
+        "thumbnail-color": [
+            114,
+            84,
+            48,
+            255.0
+        ]
+    },
+    "spruce_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "spruce_wood": {
+        "thumbnail-color": [
+            58,
+            37,
+            16,
+            255.0
+        ]
+    },
+    "sticky_piston": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "stone": {
+        "thumbnail-color": [
+            125,
+            125,
+            125,
+            255.0
+        ]
+    },
+    "stone_brick_slab": {
+        "thumbnail-color": [
+            122,
+            121,
+            122,
+            255.0
+        ]
+    },
+    "stone_brick_stairs": {
+        "thumbnail-color": [
+            122,
+            121,
+            122,
+            255.0
+        ]
+    },
+    "stone_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "stone_bricks": {
+        "thumbnail-color": [
+            122,
+            121,
+            122,
+            255.0
+        ]
+    },
+    "stone_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "stone_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "stone_slab": {
+        "thumbnail-color": [
+            125,
+            125,
+            125,
+            255.0
+        ]
+    },
+    "stone_stairs": {
+        "thumbnail-color": [
+            125,
+            125,
+            125,
+            255.0
+        ]
+    },
+    "stonecutter": {
+        "thumbnail-color": [
+            123,
+            118,
+            111,
+            255.0
+        ]
+    },
+    "stripped_acacia_log": {
+        "thumbnail-color": [
+            166,
+            91,
+            51,
+            255.0
+        ]
+    },
+    "stripped_acacia_wood": {
+        "thumbnail-color": [
+            174,
+            92,
+            59,
+            255.0
+        ]
+    },
+    "stripped_bamboo_block": {
+        "thumbnail-color": [
+            178,
+            158,
+            72,
+            255.0
+        ]
+    },
+    "stripped_birch_log": {
+        "thumbnail-color": [
+            191,
+            171,
+            116,
+            255.0
+        ]
+    },
+    "stripped_birch_wood": {
+        "thumbnail-color": [
+            196,
+            176,
+            118,
+            255.0
+        ]
+    },
+    "stripped_cherry_log": {
+        "thumbnail-color": [
+            221,
+            164,
+            157,
+            255.0
+        ]
+    },
+    "stripped_cherry_wood": {
+        "thumbnail-color": [
+            215,
+            145,
+            148,
+            255.0
+        ]
+    },
+    "stripped_crimson_hyphae": {
+        "thumbnail-color": [
+            137,
+            57,
+            90,
+            255.0
+        ]
+    },
+    "stripped_crimson_stem": {
+        "thumbnail-color": [
+            121,
+            56,
+            82,
+            255.0
+        ]
+    },
+    "stripped_dark_oak_log": {
+        "thumbnail-color": [
+            65,
+            44,
+            22,
+            255.0
+        ]
+    },
+    "stripped_dark_oak_wood": {
+        "thumbnail-color": [
+            72,
+            56,
+            36,
+            255.0
+        ]
+    },
+    "stripped_jungle_log": {
+        "thumbnail-color": [
+            165,
+            122,
+            81,
+            255.0
+        ]
+    },
+    "stripped_jungle_wood": {
+        "thumbnail-color": [
+            171,
+            132,
+            84,
+            255.0
+        ]
+    },
+    "stripped_mangrove_log": {
+        "thumbnail-color": [
+            109,
+            43,
+            43,
+            255.0
+        ]
+    },
+    "stripped_mangrove_wood": {
+        "thumbnail-color": [
+            119,
+            54,
+            47,
+            255.0
+        ]
+    },
+    "stripped_oak_log": {
+        "thumbnail-color": [
+            160,
+            129,
+            77,
+            255.0
+        ]
+    },
+    "stripped_oak_wood": {
+        "thumbnail-color": [
+            177,
+            144,
+            86,
+            255.0
+        ]
+    },
+    "stripped_spruce_log": {
+        "thumbnail-color": [
+            105,
+            80,
+            46,
+            255.0
+        ]
+    },
+    "stripped_spruce_wood": {
+        "thumbnail-color": [
+            115,
+            89,
+            52,
+            255.0
+        ]
+    },
+    "stripped_warped_hyphae": {
+        "thumbnail-color": [
+            57,
+            150,
+            147,
+            255.0
+        ]
+    },
+    "stripped_warped_stem": {
+        "thumbnail-color": [
+            52,
+            128,
+            124,
+            255.0
+        ]
+    },
+    "structure_block": {
+        "thumbnail-color": [
+            86,
+            71,
+            87,
+            255.0
+        ]
+    },
+    "structure_void": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "sugar_cane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "sunflower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "suspicious_gravel": {
+        "thumbnail-color": [
+            124,
+            119,
+            118,
+            255.0
+        ]
+    },
+    "suspicious_sand": {
+        "thumbnail-color": [
+            210,
+            193,
+            145,
+            255.0
+        ]
+    },
+    "sweet_berry_bush": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tall_grass": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tall_seagrass": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "target": {
+        "thumbnail-color": [
+            226,
+            170,
+            157,
+            255.0
+        ]
+    },
+    "terracotta": {
+        "thumbnail-color": [
+            152,
+            94,
+            67,
+            255.0
+        ]
+    },
+    "tinted_glass": {
+        "thumbnail-color": [
+            43,
+            38,
+            45,
+            131.09375
+        ]
+    },
+    "tnt": {
+        "thumbnail-color": [
+            142,
+            62,
+            53,
+            255.0
+        ]
+    },
+    "torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "torchflower": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "torchflower_crop": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "trapped_chest": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "trial_spawner": {
+        "thumbnail-color": [
+            63,
+            79,
+            91,
+            255.0
+        ]
+    },
+    "tripwire": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tripwire_hook": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tube_coral": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tube_coral_block": {
+        "thumbnail-color": [
+            49,
+            87,
+            206,
+            255.0
+        ]
+    },
+    "tube_coral_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tube_coral_wall_fan": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tuff": {
+        "thumbnail-color": [
+            108,
+            109,
+            102,
+            255.0
+        ]
+    },
+    "tuff_brick_slab": {
+        "thumbnail-color": [
+            98,
+            102,
+            95,
+            255.0
+        ]
+    },
+    "tuff_brick_stairs": {
+        "thumbnail-color": [
+            98,
+            102,
+            95,
+            255.0
+        ]
+    },
+    "tuff_brick_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "tuff_bricks": {
+        "thumbnail-color": [
+            98,
+            102,
+            95,
+            255.0
+        ]
+    },
+    "tuff_slab": {
+        "thumbnail-color": [
+            108,
+            109,
+            102,
+            255.0
+        ]
+    },
+    "tuff_stairs": {
+        "thumbnail-color": [
+            108,
+            109,
+            102,
+            255.0
+        ]
+    },
+    "tuff_wall": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "turtle_egg": {
+        "thumbnail-color": [
+            189,
+            187,
+            167,
+            132.48046875
+        ]
+    },
+    "twisting_vines": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "twisting_vines_plant": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "verdant_froglight": {
+        "thumbnail-color": [
+            229,
+            244,
+            228,
+            255.0
+        ]
+    },
+    "vine": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "void_air": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "wall_torch": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_button": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_door": {
+        "thumbnail-color": [
+            44,
+            126,
+            120,
+            255.0
+        ]
+    },
+    "warped_fence": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_fence_gate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_fungus": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_hyphae": {
+        "thumbnail-color": [
+            58,
+            58,
+            77,
+            255.0
+        ]
+    },
+    "warped_nylium": {
+        "thumbnail-color": [
+            43,
+            114,
+            101,
+            255.0
+        ]
+    },
+    "warped_planks": {
+        "thumbnail-color": [
+            43,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "warped_pressure_plate": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_roots": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_slab": {
+        "thumbnail-color": [
+            43,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "warped_stairs": {
+        "thumbnail-color": [
+            43,
+            104,
+            99,
+            255.0
+        ]
+    },
+    "warped_stem": {
+        "thumbnail-color": [
+            53,
+            109,
+            110,
+            255.0
+        ]
+    },
+    "warped_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_wall_hanging_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_wall_sign": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "warped_wart_block": {
+        "thumbnail-color": [
+            22,
+            119,
+            121,
+            255.0
+        ]
+    },
+    "water": {
+        "thumbnail-color": [
+            90,
+            188,
+            216,
+            216
+        ]
+    },
+    "water_cauldron": {
+        "thumbnail-color": [
+            44,
+            44,
+            45,
+            155.390625
+        ]
+    },
+    "waxed_chiseled_copper": {
+        "thumbnail-color": [
+            184,
+            100,
+            73,
+            255.0
+        ]
+    },
+    "waxed_copper_block": {
+        "thumbnail-color": [
+            192,
+            107,
+            79,
+            255.0
+        ]
+    },
+    "waxed_copper_bulb": {
+        "thumbnail-color": [
+            216,
+            149,
+            106,
+            255.0
+        ]
+    },
+    "waxed_copper_door": {
+        "thumbnail-color": [
+            156,
+            88,
+            67,
+            207.1875
+        ]
+    },
+    "waxed_copper_grate": {
+        "thumbnail-color": [
+            134,
+            75,
+            55,
+            178.30078125
+        ]
+    },
+    "waxed_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "waxed_cut_copper": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "waxed_cut_copper_slab": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "waxed_cut_copper_stairs": {
+        "thumbnail-color": [
+            191,
+            106,
+            80,
+            255.0
+        ]
+    },
+    "waxed_exposed_chiseled_copper": {
+        "thumbnail-color": [
+            154,
+            119,
+            100,
+            255.0
+        ]
+    },
+    "waxed_exposed_copper": {
+        "thumbnail-color": [
+            161,
+            125,
+            103,
+            255.0
+        ]
+    },
+    "waxed_exposed_copper_bulb": {
+        "thumbnail-color": [
+            195,
+            144,
+            99,
+            255.0
+        ]
+    },
+    "waxed_exposed_copper_door": {
+        "thumbnail-color": [
+            133,
+            100,
+            86,
+            207.1875
+        ]
+    },
+    "waxed_exposed_copper_grate": {
+        "thumbnail-color": [
+            113,
+            88,
+            73,
+            178.30078125
+        ]
+    },
+    "waxed_exposed_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "waxed_exposed_cut_copper": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "waxed_exposed_cut_copper_slab": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "waxed_exposed_cut_copper_stairs": {
+        "thumbnail-color": [
+            154,
+            121,
+            101,
+            255.0
+        ]
+    },
+    "waxed_oxidized_chiseled_copper": {
+        "thumbnail-color": [
+            83,
+            161,
+            132,
+            255.0
+        ]
+    },
+    "waxed_oxidized_copper": {
+        "thumbnail-color": [
+            82,
+            162,
+            132,
+            255.0
+        ]
+    },
+    "waxed_oxidized_copper_bulb": {
+        "thumbnail-color": [
+            136,
+            152,
+            102,
+            255.0
+        ]
+    },
+    "waxed_oxidized_copper_door": {
+        "thumbnail-color": [
+            66,
+            130,
+            107,
+            207.1875
+        ]
+    },
+    "waxed_oxidized_copper_grate": {
+        "thumbnail-color": [
+            57,
+            112,
+            91,
+            178.30078125
+        ]
+    },
+    "waxed_oxidized_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "waxed_oxidized_cut_copper": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "waxed_oxidized_cut_copper_slab": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "waxed_oxidized_cut_copper_stairs": {
+        "thumbnail-color": [
+            79,
+            153,
+            126,
+            255.0
+        ]
+    },
+    "waxed_weathered_chiseled_copper": {
+        "thumbnail-color": [
+            104,
+            150,
+            111,
+            255.0
+        ]
+    },
+    "waxed_weathered_copper": {
+        "thumbnail-color": [
+            108,
+            153,
+            110,
+            255.0
+        ]
+    },
+    "waxed_weathered_copper_bulb": {
+        "thumbnail-color": [
+            157,
+            155,
+            97,
+            255.0
+        ]
+    },
+    "waxed_weathered_copper_door": {
+        "thumbnail-color": [
+            89,
+            122,
+            89,
+            207.1875
+        ]
+    },
+    "waxed_weathered_copper_grate": {
+        "thumbnail-color": [
+            74,
+            106,
+            77,
+            178.30078125
+        ]
+    },
+    "waxed_weathered_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "waxed_weathered_cut_copper": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "waxed_weathered_cut_copper_slab": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "waxed_weathered_cut_copper_stairs": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "weathered_chiseled_copper": {
+        "thumbnail-color": [
+            104,
+            150,
+            111,
+            255.0
+        ]
+    },
+    "weathered_copper": {
+        "thumbnail-color": [
+            108,
+            153,
+            110,
+            255.0
+        ]
+    },
+    "weathered_copper_bulb": {
+        "thumbnail-color": [
+            157,
+            155,
+            97,
+            255.0
+        ]
+    },
+    "weathered_copper_door": {
+        "thumbnail-color": [
+            89,
+            122,
+            89,
+            207.1875
+        ]
+    },
+    "weathered_copper_grate": {
+        "thumbnail-color": [
+            74,
+            106,
+            77,
+            178.30078125
+        ]
+    },
+    "weathered_copper_trapdoor": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "weathered_cut_copper": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "weathered_cut_copper_slab": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "weathered_cut_copper_stairs": {
+        "thumbnail-color": [
+            109,
+            145,
+            107,
+            255.0
+        ]
+    },
+    "weeping_vines": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "weeping_vines_plant": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "wet_sponge": {
+        "thumbnail-color": [
+            171,
+            181,
+            70,
+            255.0
+        ]
+    },
+    "wheat": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_candle": {
+        "thumbnail-color": [
+            17,
+            17,
+            16,
+            20.91796875
+        ]
+    },
+    "white_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "white_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_concrete": {
+        "thumbnail-color": [
+            207,
+            213,
+            214,
+            255.0
+        ]
+    },
+    "white_concrete_powder": {
+        "thumbnail-color": [
+            225,
+            227,
+            227,
+            255.0
+        ]
+    },
+    "white_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_stained_glass": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            117.33203125
+        ]
+    },
+    "white_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_terracotta": {
+        "thumbnail-color": [
+            209,
+            178,
+            161,
+            255.0
+        ]
+    },
+    "white_tulip": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "white_wool": {
+        "thumbnail-color": [
+            233,
+            236,
+            236,
+            255.0
+        ]
+    },
+    "wither_rose": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "wither_skeleton_skull": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "wither_skeleton_wall_skull": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_bed": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_candle": {
+        "thumbnail-color": [
+            17,
+            15,
+            6,
+            20.91796875
+        ]
+    },
+    "yellow_candle_cake": {
+        "thumbnail-color": [
+            189,
+            170,
+            164,
+            195.234375
+        ]
+    },
+    "yellow_carpet": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_concrete": {
+        "thumbnail-color": [
+            240,
+            175,
+            21,
+            255.0
+        ]
+    },
+    "yellow_concrete_powder": {
+        "thumbnail-color": [
+            232,
+            199,
+            54,
+            255.0
+        ]
+    },
+    "yellow_glazed_terracotta": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_shulker_box": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_stained_glass": {
+        "thumbnail-color": [
+            229,
+            229,
+            51,
+            117.33203125
+        ]
+    },
+    "yellow_stained_glass_pane": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_terracotta": {
+        "thumbnail-color": [
+            186,
+            133,
+            35,
+            255.0
+        ]
+    },
+    "yellow_wall_banner": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "yellow_wool": {
+        "thumbnail-color": [
+            248,
+            197,
+            39,
+            255.0
+        ]
+    },
+    "zombie_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    },
+    "zombie_wall_head": {
+        "thumbnail-color": [
+            255,
+            255,
+            255,
+            0
+        ]
+    }
+}
